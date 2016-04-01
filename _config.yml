@@ -1,0 +1,28 @@
+name: FireJumpersPRO
+favicon: null
+layout_spectrum: 0.40303731826134026
+typography_spectrum: 0.7989341439679265
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6326607074588537
+  lightness: 0.07801067852415144
+  saturation: 0.5668932162225246
+  rhythmicContrast: 0.8547399502713233
+purpose: []
