@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: FireJumpersPRO is a cooperative multi-user wildland firefighting simulator specifically designed for wildfire agencies in tactical decision making.
-datePublished: '2016-04-02T20:22:21.230Z'
-dateModified: '2016-04-02T20:22:18.488Z'
+datePublished: '2016-04-02T20:24:23.386Z'
+dateModified: '2016-04-02T20:24:21.445Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-02-firejumperspro-is-a-cooperative-multi-user-wildland-firefigh.md
@@ -23,7 +23,7 @@ _type: Blurb
 
 ---
 **FireJumpersPRO is a cooperative multi-user wildland firefighting simulator specifically designed for wildfire agencies in tactical decision making.**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02fd0fc0-33d4-4064-b17b-f5fce54f1aab.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/45b156d91ebb483d2577906686d69abc3362261d.png)
 
 **FireJumpersPRO uses the most accurate GIS data of real world locations **so that wildfire agencies can train right in their own backyard! With maps as large as 10 square miles_(or 25 square kilometers)_, agencies can really get that epic scale experience! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b1ba622-f5df-402f-a113-564a3b0b7f71.png)
 
