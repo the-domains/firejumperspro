@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[FireJumpersPRO - Tactical Decision Making]]></title>
-        <description><![CDATA[FireJumpersPRO - Tactical Decision Making]]></description>
+        <title><![CDATA[FireJumpersPRO - Tactical Training]]></title>
+        <description><![CDATA[FireJumpersPRO - Tactical Training]]></description>
         <link>https://thegrid.ai/firejumperspro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 03:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 17:59:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/firejumperspro/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tactical Decision Making]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Fri, 01 Apr 2016 21:21:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/132c1356-a924-4551-9f10-57cfdebc8d32.gif">]]></description>
+            <title><![CDATA[Hose Team Suppression]]></title>
+            <description><![CDATA[<article><h1>Hose Team Suppression</h1><p>Hose Teams must connect to a local source of water to activate. Once connected, the hose team drags along a hose up to a finite length. Once unit is within range of a tile on fire, it will automatically start spraying water. You can control the unit's actions via the mini menu popup. You can disconnect the hose or reverse back along the same path as the hose.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/132c1356-a924-4551-9f10-57cfdebc8d32.gif"></article>]]></description>
             <link>https://thegrid.ai/firejumperspro/hose-teams-must-connect-to-a-local-source-of-water-to-activa/index.html</link>
             <guid isPermaLink="false">304d7d7d-a985-4e4c-8e4f-d06bcde39a45</guid>
-            <pubDate>Sat, 02 Apr 2016 03:50:32 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2016 17:59:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
