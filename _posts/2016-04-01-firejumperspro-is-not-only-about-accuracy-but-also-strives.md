@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "FireJumpersPRO is not only about accuracy, but also strives for real world conditions. In the real world, you can't see what your teammates are going to do. You can only see your own unit's line path and not that of other players!"
-datePublished: '2016-04-02T20:16:10.721Z'
-dateModified: '2016-04-02T20:16:08.414Z'
+datePublished: '2016-04-04T16:08:26.949Z'
+dateModified: '2016-04-04T16:08:24.528Z'
 title: "Let's Keep It Real"
 author: []
 sourcePath: _posts/2016-04-01-firejumperspro-is-not-only-about-accuracy-but-also-strives.md
