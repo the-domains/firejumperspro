@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: FireJumpersPRO is a cooperative multi-user wildland firefighting simulator specifically designed for wildfire agencies in tactical decision making.
-datePublished: '2016-04-05T17:26:36.479Z'
-dateModified: '2016-04-05T17:26:34.215Z'
+datePublished: '2016-04-06T20:23:54.954Z'
+dateModified: '2016-04-06T20:23:54.553Z'
 title: FireJumpersPRO - Tactical Decision Making
 author: []
 sourcePath: _posts/2016-04-02-firejumperspro-is-a-cooperative-multi-user-wildland-firefigh.md
